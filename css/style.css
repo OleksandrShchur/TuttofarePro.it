@@ -1026,4 +1026,8 @@
     .subheader-custom {
         font-size: 6vw;
     }
+
+    .hidden-item {
+        visibility: hidden;
+    }
 }
